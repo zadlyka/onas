@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+  .img_home {
+    width: 90%;
+  }
+
+  .btn_nav > button {
+    width: 100%;
+  }
+}
